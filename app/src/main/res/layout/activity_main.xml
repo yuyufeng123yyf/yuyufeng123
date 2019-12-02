@@ -8,7 +8,7 @@
         android:layout_height="match_parent"/>
  <!--   <fragment
         android:id="@+id/fragment_main_navigation"
-        android:name="com.edu.huatec.mobileshop.fragment.NavigationFragment"
+        android:name="com.edu.mobileshop.fragment.NavigationFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>-->
 </LinearLayout>
